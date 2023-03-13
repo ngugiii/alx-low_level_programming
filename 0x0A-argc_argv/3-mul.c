@@ -5,7 +5,7 @@
  * main - main function
  * @argc: argumentc
  * @argv: vector of arguments
- *Return: always 0
+ * Return: 1 if not enough arguements passed in , 0 otherwise
  */
 int main(int argc, char  *argv[])
 {
@@ -17,3 +17,4 @@ int main(int argc, char  *argv[])
 	else
 		printf("Error\n");
 	return (1);
+}
