@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
-
+#include <stdio.h>
+#include <stdlib.h>
 /*
  * Description: This is a header file containing prototypes for this project
  *
